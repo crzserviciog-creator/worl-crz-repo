@@ -1,0 +1,9 @@
+Package: com.crz.itachiworld
+Name: Itachi World
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Pack de iconos estilo Itachi Sharingan
+Author: crz
+Maintainer: crz
+Section: Themes
+Depends: com.anemonetheming.anemone (>= 2.0) | com.spark.snowboard (>= 1.0) | org.thebigboss.snowboard
