@@ -1,0 +1,13 @@
+Package: com.crz.itachiworld
+Name: Itachi World
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Iconos de Itachi Sharingan
+Author: crz
+Maintainer: crz
+Section: Themes
+Filename: ./debs/com.crz.itachiworld_1.0_iphoneos-arm.deb
+Size: 1841972
+MD5sum: 00000000000000000000000000000000
+SHA1: 0000000000000000000000000000000000000000
+SHA256: 0000000000000000000000000000000000000000000000000000000000000000
